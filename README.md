@@ -1,6 +1,6 @@
 # Data-Analysis-Project
 This Project was done during my studies at Ecole Polytechnique de Tunisie.
-In this work, we present how to process the data, also, we apply several machines learning techniques such as PCA, Factor Analysis...
+In this work, we present how to process the data, also, we apply several machines learning techniques such as PCA, Factor Analysis... <br>
 The goal of this project is to predict the next day return of Tunisian companies based on the daily stock data, so we will apply linear regression model at the end of this work.
 The notebook is composed of four parts:
 1- Import the necessary libraries
